@@ -1,1 +1,1 @@
-# Enhancement_in_farming
+The dataset contains data of different nutrients content in the soil and other features like ph, humidity, temprature, rainfall. Based on this dataset we have used kmeans clustering algorithm to form cluster analysis for different type of crops and also logistic regression to recomend a crop based on the input given.
